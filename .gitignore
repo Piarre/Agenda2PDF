@@ -1,0 +1,7 @@
+# Pyhthon 
+Scripts/
+Lib/
+Include/
+
+# Config files
+*.cfg
